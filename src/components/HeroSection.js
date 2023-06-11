@@ -11,7 +11,7 @@ const HeroSection = () => {
                 <h1>Little Lemon</h1>
                 <h2>Chicago</h2>
                 <p>We are a family owned Mediterranean restaurant, focused on traditional recipes served with a modern twist.</p>
-                <NavLink to="/reservations"><button className="btn">Reserve a Table</button></NavLink>
+                <NavLink to="/booking"><button className="btn">Booking a Table</button></NavLink>
             </div>
             <div className="section-right">
                 <div className="image-box">
